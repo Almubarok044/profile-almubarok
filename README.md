@@ -20,9 +20,9 @@ Seorang **[Gelar/Peran Anda, contoh: Pengembang Web Full-Stack]** yang bersemang
 ### 📈 **Statistik GitHub Saya**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[UsernameAnda]&show_icons=true&theme=vue&hide_border=true" alt="Statistik GitHub [UsernameAnda]" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Almubarok044&show_icons=true&theme=vue&hide_border=true" alt="Statistik GitHub Almubarok044" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[UsernameAnda]&layout=compact&theme=vue&hide_border=true" alt="Bahasa yang Sering Digunakan [UsernameAnda]" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almubarok044&layout=compact&theme=vue&hide_border=true" alt="Bahasa yang Sering Digunakan Almubarok044" />
 </p>
 
 ---
@@ -31,26 +31,25 @@ Seorang **[Gelar/Peran Anda, contoh: Pengembang Web Full-Stack]** yang bersemang
 
 Anda dapat menemukan saya di berbagai platform:
 
-* **LinkedIn:** [https://www.linkedin.com/in/[ProfilLinkedInAnda]](https://www.linkedin.com/in/[ProfilLinkedInAnda])
-* **Portfolio/Website:** [https://www.websiteanda.com](https://www.websiteanda.com)
-* **Email:** [mailto:emailanda@example.com](mailto:emailanda@example.com)
+* **LinkedIn:** [https://www.linkedin.com/in/mohamad-almubarok-107259284](https://www.linkedin.com/in/mohamad-almubarok-107259284)
+* **Email:** [mohamadalmubarok20@gmail.com](mohamadalmubarok20@gmail.com)
+<!-- * **Portfolio/Website:** [https://www.websiteanda.com](https://www.websiteanda.com) -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[ProfilLinkedInAnda]">
+  <a href="https://www.linkedin.com/in/mohamad-almubarok-107259284">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.websiteanda.com">
+  <!-- <a href="https://www.websiteanda.com">
     <img src="https://img.shields.io/badge/Website-1572B6?style=for-the-badge&logo=world&logoColor=white" alt="Website">
-  </a>
+  </a> -->
 </p>
 
 ---
 
 ### 💡 **Saat Ini Saya Sedang**
 
-* Belajar lebih dalam tentang **[Teknologi Baru]**.
-* Mengerjakan proyek pribadi: **[Nama Proyek]**.
-* Mencari peluang kolaborasi pada proyek **[Open Source/Khusus]**.
+* Belajar lebih dalam tentang **Flutter & Kotlin**.
+* Mengerjakan proyek pribadi: **Tugas Akhir Hidroponik dengan IoT dan Sistem Penjualan Produk Pakaian Jadi Berbasis Mobile**.
 
 <br>
 
